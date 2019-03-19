@@ -2,7 +2,7 @@
 
 body
 {
-    background: url('image/fondBleu.png'); 
+    background-color: darkblue;
 }
 
 #bloc_page
@@ -76,7 +76,7 @@ article
 
 aside
 {
-    flex: 1.2;
+    flex: 10;
     position: relative;
     background-color: #d0d3d4;
     box-shadow: 0px 2px 5px #1c1a19;
